@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lord903.
+- 👀 I’m interested in IT.
+- 🌱 I’m currently learning React!
+- 💞️ I’m looking to learn.
